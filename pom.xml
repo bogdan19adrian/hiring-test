@@ -11,6 +11,7 @@
     <modules>
         <module>find-first-unrepeated-name</module>
         <module>largest-sum</module>
+        <module>count-letter-appartion-in-string</module>
     </modules>
 
     <properties>
